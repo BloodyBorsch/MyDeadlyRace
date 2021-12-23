@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+
+  <meta>
+    <Name>Maks</Name>
+    <language>Russian</language>
+  </meta>
+
+  <group id="MainMenuItems">
+
+    <string id="NewGame">
+      <text>Игра</text>
+    </string>
+
+    <string id="Continue">
+      <text>Продолжить</text>
+    </string>
+
+    <string id="Options">
+      <text>Подсказки</text>      
+    </string>
+
+    <string id="Quit">
+      <text>Выход</text>
+    </string>
+
+    <string id="Language">
+      <text>Рус</text>
+    </string>
+
+  </group>
+
+  <group id="OptionsMenuItems">
+
+    <string id="Video">
+      <text>Видео</text>
+    </string>
+
+    <string id="Audio">
+      <text>Аудио</text>
+    </string>
+
+    <string id="Game">
+      <text>Игра</text>
+    </string>
+
+    <string id="Tips">
+      <text>
+          Управление:
+        Передвижение на WASD
+        Торможение - Пробел
+        Переворот машины - G
+        Перезарядка оружия - R
+        Фары - F
+        Выбор оружия - 1,2,3,4 (в разработке)
+        Стрельба - Левый клик
+          Союзный бот (при убийстве врага есть шанс появления союзного бота):
+        Направить бота - Правый клик
+          Выпадающие предметы:
+        Ящик с зеленым огнем - ремонт на 100 единиц себя и бота
+        Ящик с лиловый огнем - дополнительная обойма к оружию
+    </text>
+    </string>
+
+    <string id="Back">
+      <text>Назад</text>
+    </string>
+
+  </group>
+
+  <group id="PauseMenuItems">
+
+    <string id="Resume">
+      <text>Продолжить</text>
+    </string>
+
+    <string id="Options">
+      <text>Настройки</text>
+    </string>
+
+    <string id="Tips">
+      <text>
+          Управление:
+        Передвижение на WASD
+        Торможение - Пробел
+        Переворот машины - G
+        Перезарядка оружия - R
+        Фары - F
+        Выбор оружия - 1,2,3,4 (в разработке)
+        Стрельба - Левый клик
+          Союзный бот (при убийстве врага есть шанс появления союзного бота):
+        Направить бота - Правый клик
+          Выпадающие предметы:
+        Ящик с зеленым огнем - ремонт на 100 единиц себя и бота
+        Ящик с лиловый огнем - дополнительная обойма к оружию
+      </text>
+    </string>
+
+    <string id="Quit">
+      <text>Выход</text>
+    </string>
+
+  </group>
+
+</Settings>
