@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     [CreateAssetMenu(fileName = "New Weapon", menuName = "SObject/Weapon")]
     public class BaseWeaponSObject : ScriptableObject

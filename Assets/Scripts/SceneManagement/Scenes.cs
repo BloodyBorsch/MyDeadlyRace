@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     [Serializable]
     internal struct Scenes

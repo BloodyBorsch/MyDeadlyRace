@@ -3,7 +3,7 @@ using UnityEngine.AI;
 using UnityEngine.PlayerLoop;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public sealed class InputController : BaseController, IExecute, IInitialization
     {

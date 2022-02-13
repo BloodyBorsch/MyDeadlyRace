@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.AI;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public static class Patrol
     {

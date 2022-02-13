@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public abstract class BaseDropLoot : BaseObjectScene
     {

@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.Audio;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public class InterfaceResources : MonoBehaviour
     {

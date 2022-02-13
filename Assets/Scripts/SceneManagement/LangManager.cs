@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public class LangManager : Singleton<LangManager>
     {

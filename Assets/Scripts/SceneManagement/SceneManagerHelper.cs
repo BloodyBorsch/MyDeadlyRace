@@ -1,4 +1,4 @@
-﻿namespace MaksK_Race
+﻿namespace Old_Code
 {
     internal class SceneManagerHelper : Singleton<SceneManagerHelper>
     {

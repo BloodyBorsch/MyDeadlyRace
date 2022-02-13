@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     internal static class BotFactory
     {

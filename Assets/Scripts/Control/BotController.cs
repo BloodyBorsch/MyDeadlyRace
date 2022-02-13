@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEngine;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public sealed class BotController : BaseController, IExecute, IInitialization
     {

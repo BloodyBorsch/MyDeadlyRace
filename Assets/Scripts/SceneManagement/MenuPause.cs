@@ -4,7 +4,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public sealed class MenuPause : BaseMenu
     {

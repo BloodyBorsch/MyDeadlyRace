@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
 	public sealed class ToggleUI : MonoBehaviour, IControl
 	{

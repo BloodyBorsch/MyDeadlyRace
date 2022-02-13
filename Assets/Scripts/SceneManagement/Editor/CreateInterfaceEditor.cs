@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     [CustomEditor(typeof(GameController))]
     public class CreateInterfaceEditor : Editor

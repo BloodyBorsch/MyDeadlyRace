@@ -2,7 +2,7 @@
 using UnityEngine.AI;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public abstract class BaseObjectScene : MonoBehaviour
     {

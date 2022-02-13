@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
 	public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
 	{

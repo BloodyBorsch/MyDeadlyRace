@@ -8,6 +8,7 @@ TagManager:
   - Wheels
   - Trash
   - Friendly
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Player
   - Solid
   - Wheels
-  - PostProcessingVolumes
+  - 
   - Trash
   - Bot
   - BotEye

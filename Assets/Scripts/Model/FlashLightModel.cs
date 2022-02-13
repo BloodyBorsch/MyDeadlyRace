@@ -3,7 +3,7 @@ using UnityEngine;
 using static UnityEngine.Random;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
     public sealed class FlashLightModel : BaseObjectScene
     {

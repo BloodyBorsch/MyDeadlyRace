@@ -3,7 +3,7 @@ using UnityEngine;
 using System;
 
 
-namespace MaksK_Race
+namespace Old_Code
 {
 	public abstract class BaseMenu : MonoBehaviour
 	{
