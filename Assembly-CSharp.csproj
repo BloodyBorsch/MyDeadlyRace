@@ -168,6 +168,7 @@
     <Compile Include="Assets\Scripts\OldCode\SceneManagement\OptionsMenu.cs" />
     <Compile Include="Assets\Scripts\OldCode\Interfaces\IFixedExecute.cs" />
     <Compile Include="Assets\Scripts\OldCode\Control\WeaponController.cs" />
+    <Compile Include="Assets\Scripts\Networking\MainLobbyController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
